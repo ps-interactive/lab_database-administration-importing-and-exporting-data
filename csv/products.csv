@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_quantity
+1,Wireless Mouse,Electronics,25.99,50
+2,Bluetooth Headphones,Electronics,79.99,30
+3,Laptop Stand,Accessories,34.99,20
+4,Mechanical Keyboard,Electronics,119.99,15
+5,Smartphone Charger,Electronics,19.99,100
+6,USB-C Hub,Accessories,45.0,25
+7,Water Bottle,Home & Kitchen,15.99,40
+8,Backpack,Apparel,59.99,10
+9,Running Shoes,Footwear,89.99,20
+10,Notebook,Stationery,5.49,200

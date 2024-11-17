@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone_number,registration_date
+1,John,Doe,john.doe@example.com,555-1234,2023-01-15
+2,Jane,Smith,jane.smith@example.com,555-5678,2023-02-10
+3,Alice,Johnson,alice.johnson@example.com,555-8765,2023-02-12
+4,Bob,Williams,bob.williams@example.com,555-2345,2023-03-01
+5,Charlie,Brown,charlie.brown@example.com,555-6789,2023-03-10
+6,Eve,Miller,eve.miller@example.com,555-3456,2023-03-15
+7,David,Davis,david.davis@example.com,555-7890,2023-03-20
+8,Grace,Taylor,grace.taylor@example.com,555-4321,2023-04-01
+9,Henry,Moore,henry.moore@example.com,555-9876,2023-04-05
+10,Ivy,Anderson,ivy.anderson@example.com,555-5432,2023-04-15

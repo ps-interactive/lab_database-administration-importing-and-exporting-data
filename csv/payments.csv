@@ -1,0 +1,11 @@
+payment_id,order_id,payment_date,payment_method,payment_status,amount
+1,1,2023-05-01,Credit-Card,Paid,105.98
+2,2,2023-05-03,PayPal,Paid,59.99
+3,3,2023-05-05,Credit-Card,Pending,149.99
+4,4,2023-05-06,Credit-Card,Paid,134.98
+5,5,2023-05-07,Debit-Card,Paid,89.99
+6,6,2023-05-10,PayPal,Paid,15.99
+7,7,2023-05-12,Credit Card,Paid,179.98,
+8,8,2023-05-13,Credit-Card,Refunded,59.99
+9,9,2023-05-14,Debit-Card,Paid,19.99
+10,10,2023-05-15,Credit-Card,Pending,25.99

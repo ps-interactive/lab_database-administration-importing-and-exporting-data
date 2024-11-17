@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,order_status,total_amount
+1,1,2023-05-01,Completed,105.98
+2,2,2023-05-03,Completed,59.99
+3,3,2023-05-05,Pending,149.99
+4,4,2023-05-06,Completed,134.98
+5,5,2023-05-07,Shipped,89.99
+6,6,2023-05-10,Completed,15.99
+7,7,2023-05-12,Completed,179.98
+8,8,2023-05-13,Cancelled,59.99
+9,9,2023-05-14,Completed,19.99
+10,10,2023-05-15,Pending,25.99
